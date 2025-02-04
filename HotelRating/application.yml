@@ -1,3 +1,6 @@
+spring:
+  name: Config_Default
+
 eureka:
   instance:
     hostname: localhost
